@@ -27,7 +27,7 @@ public class ProductController {
 	
 	static Logger log = Logger.getLogger(ProductController.class);
 	
-	
+	//add comment
 	/* home page */
 	@RequestMapping("/")
 	public String home() {
